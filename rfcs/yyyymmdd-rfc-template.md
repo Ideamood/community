@@ -1,4 +1,4 @@
-# Build Managment System Of Freelancers By Registering 
+# Build Management System Of Freelancers By Registering 
 
 | Status        | (Proposed / Accepted / Implemented / Obsolete)       |
 :-------------- |:---------------------------------------------------- |
@@ -20,13 +20,13 @@ Our organization(ideamood) can prepare for the situation when we need freelancer
 ## Design Proposal
 If we build and develope the system of registration section for freelancers internally, we can react for the situation when we need them as soon as possible by using their ability.
 And we can manage and control the freelancers more efficieontly by creating connection which give benfits each other If the freelancers register on our website(ideamood.co.kr).
-Also we approvce and accept the freelancers by setting standard.
+Also we approve and accept the freelancers by setting standard.
 
 ### Alternatives Considered
 * We can take many advantages as a prepared team and organization firmly
 
 ### Performance Implications
-* We can use freelancer's ability by filtering and selecting us(ideamood), whichh means we can be trust oraganization more and more for prospect and potencail clients, not only our clients we already got signed contract.
+* We can use freelancer's ability by filtering and selecting us(ideamood), which means we can be trust oraganization more and more for prospect and potencail clients, not only our clients we already got signed contract.
 
 ### Dependencies
 * Dependencies: does this proposal add any new dependencies to TensorFlow?
